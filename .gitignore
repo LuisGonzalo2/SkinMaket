@@ -1,0 +1,24 @@
+# Backend
+backend/vendor/
+backend/.env
+backend/storage/*.key
+backend/node_modules/
+backend/.env.backup
+backend/.phpunit.result.cache
+
+# Frontend
+frontend/node_modules/
+frontend/.env
+frontend/.env.local
+frontend/build/
+frontend/npm-debug.log*
+
+# IDEs
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Sistemas operativos
+.DS_Store
+Thumbs.db
