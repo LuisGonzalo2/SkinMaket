@@ -33,8 +33,8 @@
 
 1. **Clonar el Repositorio**
    ```bash
-   git clone https://github.com/LuisGonzalo2/mcmaker_0_1_1.git
-   cd mcmaker_0_1_1
+   git clone https://github.com/LuisGonzalo2/SkinMaket
+   cd SkinMaket
    ```
 
 2. **Instalar Dependencias**
